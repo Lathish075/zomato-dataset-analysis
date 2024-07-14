@@ -1,4 +1,3 @@
-# zomato-dataset-analysis
 
 # Zomato Dataset Analysis Project
 
